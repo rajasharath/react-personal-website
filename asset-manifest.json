@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/faridfr.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/faridfr.github.io/static/js/main.4890cdb0.chunk.js",
-    "main.js.map": "/faridfr.github.io/static/js/main.4890cdb0.chunk.js.map",
-    "runtime-main.js": "/faridfr.github.io/static/js/runtime-main.cafd0d02.js",
-    "runtime-main.js.map": "/faridfr.github.io/static/js/runtime-main.cafd0d02.js.map",
-    "static/js/2.a6ce00c6.chunk.js": "/faridfr.github.io/static/js/2.a6ce00c6.chunk.js",
-    "static/js/2.a6ce00c6.chunk.js.map": "/faridfr.github.io/static/js/2.a6ce00c6.chunk.js.map",
-    "index.html": "/faridfr.github.io/index.html",
-    "precache-manifest.2f5c538208f1294950ec394174eab17c.js": "/faridfr.github.io/precache-manifest.2f5c538208f1294950ec394174eab17c.js",
-    "service-worker.js": "/faridfr.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/faridfr.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a6ce00c6.chunk.js.LICENSE.txt": "/faridfr.github.io/static/js/2.a6ce00c6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/faridfr.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-personal-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-personal-website/static/js/main.17c46db6.chunk.js",
+    "main.js.map": "/react-personal-website/static/js/main.17c46db6.chunk.js.map",
+    "runtime-main.js": "/react-personal-website/static/js/runtime-main.ca552b03.js",
+    "runtime-main.js.map": "/react-personal-website/static/js/runtime-main.ca552b03.js.map",
+    "static/js/2.a6ce00c6.chunk.js": "/react-personal-website/static/js/2.a6ce00c6.chunk.js",
+    "static/js/2.a6ce00c6.chunk.js.map": "/react-personal-website/static/js/2.a6ce00c6.chunk.js.map",
+    "index.html": "/react-personal-website/index.html",
+    "precache-manifest.8d450a4037866b34d80e6eae3aae607c.js": "/react-personal-website/precache-manifest.8d450a4037866b34d80e6eae3aae607c.js",
+    "service-worker.js": "/react-personal-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-personal-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a6ce00c6.chunk.js.LICENSE.txt": "/react-personal-website/static/js/2.a6ce00c6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-personal-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cafd0d02.js",
+    "static/js/runtime-main.ca552b03.js",
     "static/js/2.a6ce00c6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4890cdb0.chunk.js"
+    "static/js/main.17c46db6.chunk.js"
   ]
 }
